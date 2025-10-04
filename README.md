@@ -6,7 +6,7 @@ Estudante de Ciência da Computação | 💻 Desenvolvedora Front-End | 🚀 Apa
 ## Tecnologias que uso
 - HTML, CSS, JavaScript
   
-##Onde me encontrar
+## Onde me encontrar
 
 - 💌 Email: evilynsouzaf@gmail.com  
 - 🧁 LinkedIn: [LinkedIn](www.linkedin.com/in/évilyn-souza-fidelis-683870381)  
